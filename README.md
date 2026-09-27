@@ -9,13 +9,31 @@
 ## 👨‍💻 About me
 
 - 🔭 Currently building **Relay**, a webhook delivery service
-- 🌐 I work mostly on the **backend** side of web development: APIs, auth, databases
-- 📊 Into **data science & machine learning**, from the math behind a model to training it
-- 🔩 Exploring **low-level programming**: assembly, memory, operating systems and how the CPU runs code
-- 🧩 Strong in **data structures & algorithms**
+- 🌐 I work mostly on **backend, data science and low-level programming**: REST APIs, backend services, background jobs, data analysis, ML models and systems-level code
+- 🤖 Going deeper into **machine learning**, from the math behind a model to how it learns
+- 🔩 Spent a lot of time on **low-level programming**: memory layout, stack vs heap, pointers and system calls
+- 🖥️ Studying **operating systems and computer architecture** to understand what really happens beneath my code
+- 🧩 I enjoy solving **algorithmic problems**, especially dynamic programming, graphs and recursion
 - 🧠 I like learning things from **first principles**, and I keep asking "why?" until I hit the hardware
-- 💬 Ask me about backend, data science and ML, or what happens under the hood
+- 💬 Ask me about backend, data science and ML, or systems internals: memory management, operating systems and computer architecture
 - 💼 Open to opportunities in **backend, data science and ML**
+
+  
+## 📬 Currently building: Relay
+
+A webhook delivery service. It accepts events, delivers them to subscriber endpoints in background workers, and retries failed deliveries instead of dropping them.
+
+```mermaid
+flowchart LR
+    P[Producer] -->|POST event| A[FastAPI]
+    A -->|store| M[(MongoDB)]
+    A -->|enqueue delivery| R[(Redis)]
+    R --> W[Celery worker]
+    W -->|HTTP POST| S[Subscriber endpoint]
+    W -. retry on failure .-> R
+```
+
+`Python` · `FastAPI` · `MongoDB` · `Celery` · `Redis` · 🚧 *in progress*
 
 ## 🪜 From apps to hardware
 
