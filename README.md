@@ -4,7 +4,7 @@
 
 <p align="center">
   <img align="top" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=1200&pause=300&color=2DA44E&vCenter=true&repeat=false&width=820&height=28&lines=;%E2%9D%AF+cat+focus.txt" alt="❯ cat focus.txt" /><br>
-    <img align="top" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=1200&pause=300&color=388BFD&vCenter=true&repeat=false&width=820&height=28&lines=;;backend+engineering+%C2%B7+data+science+%C2%B7+machine+learning+%C2%B7+low-level+programming" alt="backend engineering · data science · machine learning · low-level programming" /><br>
+  <img align="top" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=1200&pause=300&color=388BFD&vCenter=true&repeat=false&width=820&height=28&lines=;;backend+engineering+%C2%B7+data+science+%C2%B7+machine+learning+%C2%B7+low-level+programming" alt="backend engineering · data science · machine learning · low-level programming" /><br>
   <img align="top" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=1200&pause=300&color=2DA44E&vCenter=true&repeat=false&width=820&height=28&lines=;;;%E2%9D%AF+cat+mindset.txt" alt="❯ cat mindset.txt" /><br>
   <img align="top" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=1200&pause=300&color=DB6D28&vCenter=true&repeat=false&width=820&height=28&lines=;;;;building+software%2C+and+understanding+the+machine+underneath+it" alt="building software, and understanding the machine underneath it" /><br>
   <img align="top" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=1200&pause=300&color=2DA44E&vCenter=true&repeat=false&width=820&height=28&lines=;;;;;%E2%9D%AF+ls+.%2Fnow" alt="❯ ls ./now" /><br>
@@ -57,16 +57,15 @@ flowchart LR
   <img src="https://img.shields.io/badge/status-in_progress-e0af68?style=flat-square" alt="Status: in progress" />
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Ladder.png" width="34" /> From apps to hardware
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Ladder.png" width="34" /> How I learn: from apps to hardware
 
-```text
-  ▲  apps        web backends · APIs · data · ML models
-  │  runtime     languages · memory · compilers
-  │  OS          processes · threads · syscalls
-  ▼  hardware    assembly · registers · CPU
+I learn by going down the stack. I start at the top by building something real, like a backend, an API or an ML model. Then I follow my code down one layer at a time, asking what runs it, who manages it and what finally executes it, until I understand what the machine is actually doing.
 
-  ▲ building software            ▼ understanding computers
-```
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=900&pause=150&color=2F81F7&multiline=true&repeat=false&width=560&height=180&lines=;%C2%A0%C2%A0apps%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0web%C2%A0backends%C2%A0%C2%B7%C2%A0APIs%C2%A0%C2%B7%C2%A0data%C2%A0%C2%B7%C2%A0ML%C2%A0models;%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%E2%86%93%C2%A0%C2%A0what%C2%A0runs%C2%A0it%3F;%C2%A0%C2%A0runtime%C2%A0%C2%A0%C2%A0%C2%A0languages%C2%A0%C2%B7%C2%A0memory%C2%A0%C2%B7%C2%A0compilers;%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%E2%86%93%C2%A0%C2%A0who%C2%A0manages%C2%A0it%3F;%C2%A0%C2%A0OS%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0processes%C2%A0%C2%B7%C2%A0threads%C2%A0%C2%B7%C2%A0syscalls;%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%E2%86%93%C2%A0%C2%A0what%C2%A0executes%C2%A0it%3F;%C2%A0%C2%A0hardware%C2%A0%C2%A0%C2%A0assembly%C2%A0%C2%B7%C2%A0registers%C2%A0%C2%B7%C2%A0CPU" alt="apps → runtime → OS → hardware" />
+</p>
+
+<p align="center"><sub>⬆️ building software &nbsp;·&nbsp; understanding computers ⬇️</sub></p>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="34" /> Tech stack
 
