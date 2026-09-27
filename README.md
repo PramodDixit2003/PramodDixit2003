@@ -41,14 +41,6 @@ flowchart LR
 
 `Python` · `FastAPI` · `MongoDB` · `Celery` · `Redis`
 
-### 🌳 [BinaryTreePy](https://github.com/PramodDixit2003/binaryTree-pythonLibrary): Python library on PyPI
-
-A small Python library for creating and working with binary trees, packaged and published to PyPI.
-
-```bash
-pip install BinaryTreePy
-```
-
 ### ⚙️ Low-level experiments
 
 - **ARM32 assembly by hand**: programs that load values, convert numbers to ASCII, store bytes into a buffer with `strb` and print them through a raw Linux `write` syscall. Assembled with `as`, linked with `ld`, and run under `qemu-arm` on an AArch64 Ubuntu VM
