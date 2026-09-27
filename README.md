@@ -8,7 +8,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pramod-dixit-2b36b91bb/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://pypi.org/project/BinaryTreePy/"><img src="https://img.shields.io/badge/PyPI-BinaryTreePy-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI: BinaryTreePy" /></a>
   <a href="https://leetcode.com/u/pramoddixit608/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </p>
 
