@@ -57,9 +57,9 @@ flowchart LR
   <img src="https://img.shields.io/badge/status-in_progress-e0af68?style=flat-square" alt="Status: in progress" />
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Ladder.png" width="34" /> How I learn: from apps to hardware
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Ladder.png" width="34" /> How I see software
 
-I learn by going down the stack. I start at the top by building something real, like a backend, an API or an ML model. Then I follow my code down one layer at a time, asking what runs it, who manages it and what finally executes it, until I understand what the machine is actually doing.
+To me, software is a stack of layers. I build at the top, whether that's a backend, an API or an ML model. Then I follow my code down one layer at a time, asking what runs it, who manages it and what finally executes it, until I understand what the machine is actually doing.
 
 <p align="center">
   <img src="./stack.svg" alt="Apps (web backends, APIs, data, ML models) → Runtime (languages, memory, compilers) → OS (processes, threads, syscalls) → Hardware (assembly, registers, CPU)" />
