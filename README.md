@@ -4,7 +4,7 @@
 
 <p align="center">
   <img align="top" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=1200&pause=300&color=2DA44E&vCenter=true&repeat=false&width=820&height=28&lines=;%E2%9D%AF+cat+focus.txt" alt="❯ cat focus.txt" /><br>
-  <img align="top" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=1200&pause=300&color=388BFD&vCenter=true&repeat=false&width=820&height=28&lines=;;backend+engineering+%C2%B7+data+science+%C2%B7+machine+learning" alt="backend engineering · data science · machine learning" /><br>
+  <img align="top" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=1200&pause=300&color=388BFD&vCenter=true&repeat=false&width=820&height=28&lines=;;backend+engineering+%C2%B7+data+science+%C2%B7+machine+learning" alt="backend engineering · data science · machine learning " · low-level programming/><br>
   <img align="top" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=1200&pause=300&color=2DA44E&vCenter=true&repeat=false&width=820&height=28&lines=;;;%E2%9D%AF+cat+mindset.txt" alt="❯ cat mindset.txt" /><br>
   <img align="top" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=1200&pause=300&color=DB6D28&vCenter=true&repeat=false&width=820&height=28&lines=;;;;building+software%2C+and+understanding+the+machine+underneath+it" alt="building software, and understanding the machine underneath it" /><br>
   <img align="top" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=1200&pause=300&color=2DA44E&vCenter=true&repeat=false&width=820&height=28&lines=;;;;;%E2%9D%AF+ls+.%2Fnow" alt="❯ ls ./now" /><br>
