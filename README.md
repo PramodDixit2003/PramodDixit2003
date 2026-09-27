@@ -1,9 +1,14 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=44&duration=1600&pause=0&color=9D7CD8&center=true&vCenter=true&repeat=false&width=820&height=80&lines=Pramod+Dixit" alt="Pramod Dixit" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=44&duration=1400&pause=0&color=A371F7&center=true&vCenter=true&repeat=false&width=820&height=80&lines=Pramod+Dixit" alt="Pramod Dixit" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=1300&pause=300&color=7AA2F7&background=1A1B27&multiline=true&repeat=false&width=820&height=150&lines=%C2%A0%C2%A0%E2%9D%AF+cat+focus.txt;%C2%A0%C2%A0backend+engineering+%C2%B7+data+science+%C2%B7+machine+learning;%C2%A0%C2%A0%E2%9D%AF+cat+mindset.txt;%C2%A0%C2%A0building+software%2C+and+understanding+the+machine+underneath+it;%C2%A0%C2%A0%E2%9D%AF+ls+.%2Fnow;%C2%A0%C2%A0relay%2F%C2%A0%C2%A0%C2%A0%C2%A0ml-from-scratch%2F%C2%A0%C2%A0%C2%A0%C2%A0os-internals%2F" alt="❯ cat focus.txt — backend engineering · data science · machine learning" />
+  <img align="top" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=1200&pause=300&color=2DA44E&vCenter=true&repeat=false&width=820&height=28&lines=;%E2%9D%AF+cat+focus.txt" alt="❯ cat focus.txt" /><br>
+  <img align="top" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=1200&pause=300&color=388BFD&vCenter=true&repeat=false&width=820&height=28&lines=;;backend+engineering+%C2%B7+data+science+%C2%B7+machine+learning" alt="backend engineering · data science · machine learning" /><br>
+  <img align="top" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=1200&pause=300&color=2DA44E&vCenter=true&repeat=false&width=820&height=28&lines=;;;%E2%9D%AF+cat+mindset.txt" alt="❯ cat mindset.txt" /><br>
+  <img align="top" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=1200&pause=300&color=DB6D28&vCenter=true&repeat=false&width=820&height=28&lines=;;;;building+software%2C+and+understanding+the+machine+underneath+it" alt="building software, and understanding the machine underneath it" /><br>
+  <img align="top" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=1200&pause=300&color=2DA44E&vCenter=true&repeat=false&width=820&height=28&lines=;;;;;%E2%9D%AF+ls+.%2Fnow" alt="❯ ls ./now" /><br>
+  <img align="top" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=1200&pause=300&color=DB61A2&vCenter=true&repeat=false&width=820&height=28&lines=;;;;;;relay%2F%C2%A0%C2%A0%C2%A0%C2%A0ml-from-scratch%2F%C2%A0%C2%A0%C2%A0%C2%A0os-internals%2F" alt="relay/  ml-from-scratch/  os-internals/" />
 </p>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="34" /> About me
@@ -67,9 +72,13 @@ flowchart LR
 
 <p align="center"><b>Languages</b></p>
 <p align="center"><img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts" alt="C, C++, Java, Python, JavaScript, TypeScript" /></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/ARM_Assembly-1a1b27?style=for-the-badge&logo=arm&logoColor=7dcfff" alt="ARM Assembly" />
+  <img src="https://img.shields.io/badge/x86_Assembly-1a1b27?style=for-the-badge" alt="x86 Assembly" />
+</p>
 
 <p align="center"><b>Backend & databases</b></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,django,mysql,mongodb" alt="Node.js, Express, Django, MySQL, MongoDB" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,django,mysql,mongodb,redis" alt="Node.js, Express, Django, MySQL, MongoDB, Redis" /></p>
 
 <p align="center"><b>Data science & ML</b></p>
 <p align="center">
