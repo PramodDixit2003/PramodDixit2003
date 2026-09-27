@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=190&section=header&text=Pramod%20Dixit&fontSize=50&fontColor=ffffff&fontAlignY=36&animation=fadeIn" alt="Pramod Dixit" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=44&duration=1600&pause=0&color=9D7CD8&center=true&vCenter=true&repeat=false&width=820&height=80&lines=Pramod+Dixit" alt="Pramod Dixit" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=700&lines=backend+engineering+%C2%B7+data+science+%C2%B7+machine+learning;building+software+%C2%B7+understanding+computers;from+HTTP+handlers+down+to+CPU+registers" alt="backend engineering · data science · machine learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=1300&pause=300&color=7AA2F7&background=1A1B27&multiline=true&repeat=false&width=820&height=150&lines=%C2%A0%C2%A0%E2%9D%AF+cat+focus.txt;%C2%A0%C2%A0backend+engineering+%C2%B7+data+science+%C2%B7+machine+learning;%C2%A0%C2%A0%E2%9D%AF+cat+mindset.txt;%C2%A0%C2%A0building+software%2C+and+understanding+the+machine+underneath+it;%C2%A0%C2%A0%E2%9D%AF+ls+.%2Fnow;%C2%A0%C2%A0relay%2F%C2%A0%C2%A0%C2%A0%C2%A0ml-from-scratch%2F%C2%A0%C2%A0%C2%A0%C2%A0os-internals%2F" alt="❯ cat focus.txt — backend engineering · data science · machine learning" />
 </p>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="34" /> About me
